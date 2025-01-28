@@ -23,6 +23,7 @@
 > 💾 **Download Cursor v0.44.11**
 > - [Download from Cursor Official](https://downloader.cursor.sh/builds/250103fqxdt5u9z/windows/nsis/x64)
 > - [Download from ToDesktop](https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.11%20-%20Build%20250103fqxdt5u9z-x64.exe)
+> - [Download for macOS (M1/M2/M3/M4) from ToDesktop](https://dl.todesktop.com/230313mzl4w4u92/versions/0.44.11/mac/zip/arm64)
 
 <details >
 <summary><b>🔒 Disable Auto-Update Feature</b></summary>
